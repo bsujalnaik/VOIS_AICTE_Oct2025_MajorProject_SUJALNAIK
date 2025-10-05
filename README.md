@@ -60,8 +60,7 @@ I am doing this project for the AICTE Data Analysis Virtual Internship with Edun
 #### Internship Details (as provided)
 > Edunet Foundation  
 > AICTE Internship Offer Letter  
-> Apply ID: APPLY_175569094368a5b7bfb59cb   Internship ID: INTERNSHIP_17546440516895be537820f  
-> Date: 09th September 2025  
+> Apply ID: APPLY_175569094368a5b7bfb59cb   Internship ID: INTERNSHIP_17546440516895be537820f    
 > We would like to congratulate you on being selected for an internship brought to you by Edunet Foundation, leveraging VOIS and Vodafone Idea Foundation’s VOIS for Tech Program on Conversational Data Analytics with LLMs. As an intern, you will learn and demonstrate skills that will enhance your employability and your confidence in the subject area. VOIS for Tech is an e-learning platform that helps technical students gain the foundational skills necessary to pick up market relevant skills while earning credentials and receiving guidance for industry experts at no cost.  
 > We are pleased to offer you Edunet Foundation internship for a period of 4 weeks beginning from 10th September 2025 to 8th October 2025. During this internship, you will work independently on a project and be assigned a mentor who will guide you to identify a solution to the problem and develop it into a project. The internship will be providing the following benefits:  
 > - Access to VOIS for Tech e-Learning Platform with curated courses on technical skills  
